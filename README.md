@@ -8,7 +8,7 @@ A Pygame simulation of balls colliding in a spiral maze using the Pymunk physics
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/OWNER/REPO>.git
+    git clone https://github.com/OWNER/REPO.git
     cd <REPO>
     ```
 2.  **Set up a virtual environment (recommended):**
