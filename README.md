@@ -1,3 +1,39 @@
+# Spiral Maze Simulation
+
+[![Python Simulation CI](https://github.com/OWNER/REPO/actions/workflows/main.yml/badge.svg)](https://github.com/OWNER/REPO/actions/workflows/main.yml)
+
+A Pygame simulation of balls colliding in a spiral maze using the Pymunk physics library.
+
+## Running the Simulation
+
+1.  **Clone the repository:**
+    ```bash
+    git clone https://github.com/OWNER/REPO>.git
+    cd <REPO>
+    ```
+2.  **Set up a virtual environment (recommended):**
+    ```bash
+    python -m venv venv
+    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+    ```
+3.  **Install dependencies:**
+    ```bash
+    pip install -r requirements.txt
+    ```
+4.  **Run the simulation:**
+    ```bash
+    python simulation.py
+    ```
+
+## Running Tests
+
+To run the automated tests:
+
+```bash
+python test_simulation.py
+```
+
+---
 
 # 🌀 Spiral Maze Ball Simulation using Pymunk
 
@@ -84,5 +120,3 @@ Each `(x, y)` point is connected to form **segment walls**, added to the Pymunk 
 *(Run the notebook to see in action!)*
 
 ---
-
-
